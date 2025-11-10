@@ -1,7 +1,7 @@
 # 🌱 LearnPath – Interactive Learning Platform
 
 **Live Site:** [skillpath-liart.vercel.app](https://skillpath-liart.vercel.app)  
-**GitHub Repo:** [Studentcuchd/Full-Stack-Project](https://github.com/Studentcuchd/Full-Stack-Project)
+**GitHub Repo:** [Studentcuchd/Full-Stack-Project](https://github.com/Megha130603)
 
 ---
 
